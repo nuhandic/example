@@ -1,0 +1,29 @@
+.outbox {
+    background: red;
+    width: 36rem;
+    height: 36rem;
+    position: relative;
+    left: 400px;
+    top: 50px;
+    position: relative;
+    box-shadow: 5px 5px 5px grey;
+    /*Altta olan kutu static olmali ve diger kutularla baglantili olmali*/
+}
+
+.horizontal {
+    background: white;
+    width: 8rem;
+    height: 24rem;
+    position: absolute;
+    top: 6rem;
+    left: 14rem;
+}
+
+.vertical {
+    background: white;
+    width: 24rem;
+    height: 8rem;
+    position: absolute;
+    top: 14rem;
+    left: 6rem;
+}
